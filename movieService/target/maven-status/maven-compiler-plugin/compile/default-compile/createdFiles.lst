@@ -1,0 +1,7 @@
+pl\pjatk\movieService\model\Movie.class
+pl\pjatk\movieService\service\MovieService.class
+pl\pjatk\movieService\advice\MovieAdvice.class
+pl\pjatk\movieService\MovieServiceApplication.class
+pl\pjatk\movieService\controller\MovieController.class
+pl\pjatk\movieService\Interface\MovieRepository.class
+pl\pjatk\movieService\model\MovieCategory.class
